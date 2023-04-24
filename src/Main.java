@@ -51,6 +51,7 @@ public class Main {
             System.out.print(indexes[i] + ", ");
         }
         System.out.println(indexes[2]);
+        System.out.println();
         int[] ages = {15, 18, 19, 22, 15, 16};
         System.out.println(Arrays.toString(ages));
         System.out.println("или");
